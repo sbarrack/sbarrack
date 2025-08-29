@@ -1,5 +1,3 @@
 Yo, I'm a software engineer 👋 Web development is *clearly* my passion and *totally* not my day job 😆 My coworkers know me as the local CSS guy ✨ At home, __I use Linux btw__ 😎 and I frankenstein video game controllers together with Arduinos 🎮 I'm always learning more about programming 📚 Hit me up if you want to talk about ricing desktops or if you just want to play skribbl.io 🖌️
 
-<!-- [![Stephen's GitHub stats](https://github-readme-stats.vercel.app/api?username=sbarrack&include_all_commits=true&count_private=true&show_icons=true&custom_title=Stephen's%20GitHub%20stats&bg_color=1e1e2e&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5)](https://github.com/anuraghazra/github-readme-stats) -->
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&size_weight=0.5&count_weight=0.5&bg_color=1e1e2e&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5&layout=compact&langs_count=10&hide=astro,go)](https://github.com/anuraghazra/github-readme-stats) -->
-<!-- [![roadmap.sh](https://roadmap.sh/card/tall/678c183198c00f7117184271?variant=dark)](https://roadmap.sh) -->
+Old work profile: @sbarrack2 https://github.com/sbarrack2
